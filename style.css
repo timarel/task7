@@ -1,0 +1,31 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    margin: 100px;
+}
+input {
+    width: 300px;
+    height: 30px;
+    padding-left: 10px;
+    margin: 5px;
+}
+#word {
+    width: 115px;
+}
+#sbmt {
+    width: 130px;
+    padding: 0px;
+}
+h {
+    margin: 10px;
+}
+span {
+    font-size: 20px;
+    color: red;
+    margin-left: 10px;
+}
